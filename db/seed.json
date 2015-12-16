@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Jeff Steed",
+    "SpiritAnimal": "Shark",
+    "DoTheyLikeIt": true
+  },
+  {
+    "Name": "Lidia Santos",
+    "SpiritAnimal": "Panther",
+    "DoTheyLikeIt": true
+  },
+  {
+    "Name": "Simran Khosla",
+    "SpiritAnimal": "Eagle",
+    "DoTheyLikeIt": false
+  }
+]
