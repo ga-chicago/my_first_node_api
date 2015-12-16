@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ga-chicago/my_first_node_api#readme",
   "dependencies": {
     "http": "0.0.0",
+    "json": "^9.0.3",
     "mongoose": "^4.3.1"
   }
 }
